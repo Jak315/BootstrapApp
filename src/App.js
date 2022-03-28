@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import { Container, Navbar, Nav, NavDropdown, Carousel, Button } from 'react-bootstrap'
-import Carousels from './components/Carousels';
+import { Container, Navbar, Nav, NavDropdown, Carousel } from 'react-bootstrap'
+// import Carousels from './components/Carousels';
 import Zurag1 from './images/1.jpeg'
 import Zurag2 from './images/2.jpeg'
 import Zurag3 from './images/3.jpeg'
